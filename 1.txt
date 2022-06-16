@@ -4,3 +4,4 @@ this is feature1
 =======
 this feature2
 >>>>>>> f2
+this is feature3
